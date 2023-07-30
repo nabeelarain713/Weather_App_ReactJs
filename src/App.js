@@ -9,11 +9,11 @@ function App() {
         <CurrentLocation />
       </div>
       <div className="footer-info">
-        <a href="https://www.htmlhints.com/article/how-to-create-toggle-switch/93">
+        <a target="_blank" href="https://github.com/nabeelarain713/Weather_App_ReactJs.git">
           Download Source Code
         </a>{" "}
         | Developed by{" "}
-        <a target="_blank" href="https://www.gauravghai.dev/">
+        <a target="_blank" href="https://github.com/nabeelarain713">
           Nabeel Arain
         </a>
       </div>
